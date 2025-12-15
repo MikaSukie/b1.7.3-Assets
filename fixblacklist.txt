@@ -1,4 +1,2 @@
-"*.betamc.org.*",
-"*.betacraft.*",
-"betacraft.ee",
-"betamc.org:25565"
+"[.etc]betacraft[.etc]"
+"[.etc]betamc.org[.etc]"
