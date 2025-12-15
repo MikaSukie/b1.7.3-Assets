@@ -1,0 +1,4 @@
+"*.betamc.org.*",
+"*.betacraft.*",
+"betacraft.ee",
+"betamc.org:25565"
