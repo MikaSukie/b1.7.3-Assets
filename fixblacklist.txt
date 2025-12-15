@@ -1,2 +1,2 @@
-"[.etc]betacraft[.etc]"
+"[.etc]betacraft[.etc]",
 "[.etc]betamc.org[.etc]"
